@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **moincoder/moincoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">I'm Moin</h1>
-<h3 align="center">Backend Developer | Django | Python</h3>
+## Hi, I'm Moin 👋
+Backend Web Developer | Django & Python Enthusiast
