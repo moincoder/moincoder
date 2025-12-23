@@ -29,9 +29,7 @@ Passionate about clean architecture, performance optimization, and real-world pr
 
 ## 📊 GitHub Statistics
 
-![Moin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moincoder&show_icons=true&count_private=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moincoder&layout=compact&theme=github_dark)
+![Metrics](https://github.com/moincoder/moincoder/blob/main/github-metrics.svg)
 
 
 ### 📫 Connect with Me
