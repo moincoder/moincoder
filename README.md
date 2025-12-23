@@ -16,3 +16,24 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Moin 👋
 Backend Web Developer | Django & Python Enthusiast
+I build scalable backend systems using Django and Python.
+Passionate about clean architecture, performance optimization, and real-world problem solving.
+
+### 🛠 Tech Stack
+- **Backend:** Python, Django
+- **Frontend:** HTML, CSS, Tailwind
+- **Database:** SQLite, PostgreSQL
+- **Tools:** Git, GitHub, Linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+
+### 📫 Connect with Me
+- Email: contact@moinit.dev
+- LinkedIn: https://linkedin.com/in/username
+- Fiverr / Portfolio: https://moinit.dev
