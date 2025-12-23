@@ -27,10 +27,6 @@ Passionate about clean architecture, performance optimization, and real-world pr
 - **Tools:** Git, GitHub, Linux
 
 
-## 📊 GitHub Statistics
-
-![Metrics](https://github.com/moincoder/moincoder/blob/main/github-metrics.svg)
-
 
 ### 📫 Connect with Me
 - Email: contact@moinit.dev
