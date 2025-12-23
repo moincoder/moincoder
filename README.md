@@ -27,8 +27,8 @@ Passionate about clean architecture, performance optimization, and real-world pr
 - **Tools:** Git, GitHub, Linux
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moincoder&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moincoder&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moincoder&show_icons=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moincoder&layout=compact&hide_border=true)
 
 
 ### 📫 Connect with Me
